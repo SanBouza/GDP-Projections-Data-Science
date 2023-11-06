@@ -7,5 +7,5 @@ Making of a model through supervised machine learning that predicts GDP for a co
 Este repo ontiene CSV de PBI por país y país por continente, y al .ipynb.  
 This repo includes a CSV file for GDP per country and country per continent, as well as the .ipynb file.  
 ## URL:
-También se puede acceder al proyecto en: 
-This proyect can be viewed here:
+También se puede acceder al proyecto en:   
+This proyect can be viewed here:  
